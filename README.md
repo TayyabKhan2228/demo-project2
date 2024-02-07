@@ -1,3 +1,2 @@
 # new project
- this a new prject
- 
+ this a new prject. created by Tayyab Khan. 
